@@ -10,6 +10,8 @@ Make sure you have `node` installed. Open up the project in VSCode, and open up 
 
 ![Screenshot of Insomnia test](Insomnia.png)
 
+You can view a more detailed walkthrough video [here](https://drive.google.com/file/d/1uYfLKilwxIJcGe0K58pdE1AyoGb7QGt0/view).
+
 ## Built With
 
 * Node.js
