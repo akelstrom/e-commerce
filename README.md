@@ -14,12 +14,12 @@ You can view a more detailed walkthrough video [here](https://drive.google.com/f
 
 ## Built With
 
+* JavaScript
 * Node.js
 * mySQL
-* JavaScript
-* Sequelize.js
-* Insomnia Core
+* Sequelize.js (ORM)
 * RESTful APIs
+* Insomnia Core
 
 ## Credits
 Big thanks to the Upenn LPS Coding Bootcamp Instructional staff, and my tutor for all the support. 
